@@ -27,6 +27,7 @@ int main() {
         printf("%.2f\n", average);
     }
 
+Пример 1
 #include <stdio.h>
 
 int main() {
